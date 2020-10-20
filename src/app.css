@@ -1,4 +1,58 @@
-.App{
-background-color: aqua;
-height: 500px;
+.container{
+background-color: blue;
+margin: auto;
+
 }
+
+.navbar{
+background-color: #deb887;
+padding-bottom: 100px;
+margin-left: 150px;
+}
+
+.title-button{
+margin-left: 150px;
+}
+
+.title-button h1 {
+
+}
+
+.icon1{
+margin-left: 150px;
+margin-right: 150px;
+display: flex;
+flex-direction: column;
+align-items: left;
+width: 200px;
+}
+
+
+.icon2{
+margin-left: 150px;
+margin-right: 150px;
+display: flex;
+flex-direction: column;
+align-items: left;
+width: 200px;
+    }
+
+    
+.icon3{
+margin-left: 150px;
+margin-right: 150px;
+display: flex;
+flex-direction: column;
+align-items: left;
+width: 200px;
+    }
+
+
+.icon4{
+margin-left: 150px;
+margin-right: 150px;
+display: flex;
+flex-direction: column;
+align-items: left;
+width: 200px;
+        }

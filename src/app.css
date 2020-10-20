@@ -1,0 +1,30 @@
+.container {
+  height: 60vh;
+  background-color: #1F2535;
+}
+
+.title {
+  color: white;
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 100px;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 200px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+#root {
+  margin: 0;
+}

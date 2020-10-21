@@ -1,7 +1,7 @@
-import React from 'react';
-import './App.css';
+import React from 'react'; // j'importe REACT
+import './App.css'; // J'importe mon fichier css
 
-const App = () => {
+const App = () => { // Mon fonction App qui sera exportée
     return (
         <div className="page">
             <div className="background">
@@ -47,4 +47,4 @@ const App = () => {
     );
   };
    
-  export default App;
+  export default App; // j'exporte ma fonction App
